@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:iron_golem_spawn_egg": 1,
+      "minecraft:glass": 114,
+      "minecraft:emerald_block": 38,
+      "minecraft:red_carpet": 8,
+      "minecraft:cow_spawn_egg": 3,
+      "minecraft:crossbow": 29,
+      "minecraft:bamboo_door": 2,
+      "minecraft:white_bed": 6,
+      "minecraft:fire_charge": 23,
+      "minecraft:soul_torch": 10,
+      "minecraft:obsidian": 52,
+      "minecraft:oak_door": 8
+    },
+    "minecraft:killed": {
+      "minecraft:pillager": 3
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:talked_to_villager": 14,
+      "minecraft:time_since_rest": 12289,
+      "minecraft:walk_one_cm": 165717,
+      "minecraft:leave_game": 4,
+      "minecraft:mob_kills": 5,
+      "minecraft:walk_under_water_one_cm": 655,
+      "minecraft:damage_dealt": 190,
+      "minecraft:play_time": 101006,
+      "minecraft:jump": 229,
+      "minecraft:time_since_death": 101006,
+      "minecraft:drop": 1,
+      "minecraft:bell_ring": 223,
+      "minecraft:sprint_one_cm": 2108,
+      "minecraft:open_chest": 4,
+      "minecraft:sleep_in_bed": 6,
+      "minecraft:total_world_time": 103489,
+      "minecraft:fly_one_cm": 457581,
+      "minecraft:walk_on_water_one_cm": 263,
+      "minecraft:crouch_one_cm": 706,
+      "minecraft:sneak_time": 1161,
+      "minecraft:interact_with_blast_furnace": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 8,
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:red_carpet": 1
+    }
+  },
+  "DataVersion": 4903
+}

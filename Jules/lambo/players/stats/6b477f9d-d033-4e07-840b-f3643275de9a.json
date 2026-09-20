@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:netherite_sword": 32,
+      "minecraft:jukebox": 1,
+      "minecraft:crossbow": 10,
+      "minecraft:glow_squid_spawn_egg": 5,
+      "minecraft:enderman_spawn_egg": 1,
+      "minecraft:oak_door": 1
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 2,
+      "minecraft:skeleton": 6,
+      "minecraft:creeper": 2,
+      "minecraft:spider": 2
+    },
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 1,
+      "minecraft:time_since_rest": 32353,
+      "minecraft:walk_one_cm": 83074,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 13,
+      "minecraft:walk_under_water_one_cm": 2119,
+      "minecraft:damage_dealt": 2322,
+      "minecraft:play_time": 32353,
+      "minecraft:jump": 112,
+      "minecraft:time_since_death": 32353,
+      "minecraft:play_record": 5,
+      "minecraft:drop": 1,
+      "minecraft:bell_ring": 8,
+      "minecraft:sprint_one_cm": 2475,
+      "minecraft:open_chest": 5,
+      "minecraft:total_world_time": 32417,
+      "minecraft:fly_one_cm": 219015,
+      "minecraft:walk_on_water_one_cm": 2811,
+      "minecraft:sneak_time": 57,
+      "minecraft:climb_one_cm": 92
+    },
+    "minecraft:dropped": {
+      "minecraft:glow_squid_spawn_egg": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:bone": 7,
+      "minecraft:arrow": 3,
+      "minecraft:rotten_flesh": 3,
+      "minecraft:beetroot_seeds": 1,
+      "minecraft:string": 1,
+      "minecraft:music_disc_pigstep": 1,
+      "minecraft:music_disc_lava_chicken": 1,
+      "minecraft:music_disc_5": 1,
+      "minecraft:wheat_seeds": 1,
+      "minecraft:music_disc_tears": 1,
+      "minecraft:music_disc_chirp": 1,
+      "minecraft:gunpowder": 2,
+      "minecraft:spider_eye": 2,
+      "minecraft:glow_ink_sac": 2
+    }
+  },
+  "DataVersion": 4903
+}
