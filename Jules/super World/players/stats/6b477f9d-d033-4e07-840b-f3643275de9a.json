@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:tall_grass": 7,
+      "minecraft:tall_seagrass": 3,
+      "minecraft:spruce_log": 5,
+      "minecraft:bush": 4,
+      "minecraft:dirt": 4,
+      "minecraft:podzol": 3,
+      "minecraft:dandelion": 3,
+      "minecraft:grass_block": 13,
+      "minecraft:sugar_cane": 7,
+      "minecraft:spruce_leaves": 52,
+      "minecraft:short_grass": 26,
+      "minecraft:kelp": 1,
+      "minecraft:fern": 3,
+      "minecraft:kelp_plant": 1,
+      "minecraft:leaf_litter": 1,
+      "minecraft:large_fern": 1,
+      "minecraft:azure_bluet": 1,
+      "minecraft:dead_bush": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:spruce_planks": 12,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 3,
+      "minecraft:spruce_log": 5,
+      "minecraft:dirt": 12,
+      "minecraft:spruce_sapling": 1,
+      "minecraft:stick": 3,
+      "minecraft:dandelion": 3,
+      "minecraft:wheat_seeds": 8,
+      "minecraft:sugar_cane": 11,
+      "minecraft:azure_bluet": 1,
+      "minecraft:kelp": 58
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 71396,
+      "minecraft:walk_one_cm": 119737,
+      "minecraft:leave_game": 4,
+      "minecraft:walk_under_water_one_cm": 11575,
+      "minecraft:damage_taken": 275,
+      "minecraft:damage_dealt": 95,
+      "minecraft:play_time": 85652,
+      "minecraft:jump": 388,
+      "minecraft:time_since_death": 64894,
+      "minecraft:sprint_one_cm": 212,
+      "minecraft:fall_one_cm": 5675,
+      "minecraft:total_world_time": 86143,
+      "minecraft:fly_one_cm": 1179,
+      "minecraft:walk_on_water_one_cm": 392132,
+      "minecraft:sneak_time": 61,
+      "minecraft:deaths": 1
+    }
+  },
+  "DataVersion": 4903
+}

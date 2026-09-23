@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:oak_log": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:oak_log": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6784,
+      "minecraft:walk_one_cm": 1633,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 266,
+      "minecraft:play_time": 6784,
+      "minecraft:damage_dealt": 50,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 6784,
+      "minecraft:drop": 1,
+      "minecraft:total_world_time": 8669,
+      "minecraft:fly_one_cm": 143825,
+      "minecraft:sneak_time": 53,
+      "minecraft:climb_one_cm": 3276
+    }
+  },
+  "DataVersion": 5023
+}

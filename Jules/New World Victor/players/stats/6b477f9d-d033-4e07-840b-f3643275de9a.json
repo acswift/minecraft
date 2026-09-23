@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 2,
+      "minecraft:spruce_log": 5,
+      "minecraft:dirt": 69,
+      "minecraft:crafting_table": 1,
+      "minecraft:grass_block": 116,
+      "minecraft:spruce_leaves": 3
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_sword": 1,
+      "minecraft:spruce_planks": 16,
+      "minecraft:crafting_table": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_planks": 2,
+      "minecraft:spruce_log": 4,
+      "minecraft:dirt": 188,
+      "minecraft:stick": 7,
+      "minecraft:wooden_sword": 1,
+      "minecraft:crafting_table": 3
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:used": {
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_sword": 22,
+      "minecraft:dirt": 114
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 429,
+      "minecraft:walk_one_cm": 87337,
+      "minecraft:leave_game": 4,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 1247,
+      "minecraft:damage_dealt": 208,
+      "minecraft:play_time": 46725,
+      "minecraft:jump": 374,
+      "minecraft:time_since_death": 400,
+      "minecraft:sprint_one_cm": 178,
+      "minecraft:fall_one_cm": 12334,
+      "minecraft:total_world_time": 47506,
+      "minecraft:fly_one_cm": 1203,
+      "minecraft:deaths": 4
+    }
+  },
+  "DataVersion": 4903
+}

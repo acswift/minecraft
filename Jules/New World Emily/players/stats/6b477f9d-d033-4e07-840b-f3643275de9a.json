@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:lodestone": 1,
+      "minecraft:oak_log": 1,
+      "minecraft:golden_leggings": 1,
+      "minecraft:fire_charge": 2,
+      "minecraft:flint": 1,
+      "minecraft:golden_boots": 1,
+      "minecraft:copper_torch": 1,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:golden_shovel": 1,
+      "minecraft:gold_nugget": 11,
+      "minecraft:kelp": 11
+    },
+    "minecraft:used": {
+      "minecraft:sand": 1,
+      "minecraft:flint_and_steel": 2,
+      "minecraft:warped_stairs": 6,
+      "minecraft:sandstone": 1,
+      "minecraft:oak_log": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:sand": 1,
+      "minecraft:copper_torch": 1,
+      "minecraft:oak_log": 1,
+      "minecraft:fire_charge": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 64198,
+      "minecraft:walk_one_cm": 19557,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_under_water_one_cm": 85847,
+      "minecraft:damage_dealt": 80,
+      "minecraft:play_time": 64198,
+      "minecraft:jump": 212,
+      "minecraft:time_since_death": 64198,
+      "minecraft:drop": 4,
+      "minecraft:sprint_one_cm": 230,
+      "minecraft:swim_one_cm": 561,
+      "minecraft:total_world_time": 64771,
+      "minecraft:fly_one_cm": 902452,
+      "minecraft:walk_on_water_one_cm": 41441,
+      "minecraft:climb_one_cm": 24
+    }
+  },
+  "DataVersion": 4903
+}
